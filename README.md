@@ -1,5 +1,4 @@
 # Sales_Forecasting-Model-with-Automated-Data-Processing-using-pandas-and-Visualization-using-ML
-#  EPBL Project Report – EV Sales Forecasting Using Machine Learning
 
 ##  About the Project
 
