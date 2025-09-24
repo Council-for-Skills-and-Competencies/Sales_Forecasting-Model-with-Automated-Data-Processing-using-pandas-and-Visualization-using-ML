@@ -34,5 +34,3 @@ EV adoption is a **key driver of sustainability**. By providing accurate forecas
 * Investors make data-driven decisions.
 
 
-
-Do you want me to make this **LinkedIn-ready** (with hashtags like #DataScience #MachineLearning #Sustainability #EV) or keep it more **GitHub/Portfolio-style** without hashtags?
